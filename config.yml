@@ -1,6 +1,6 @@
-baseURL: "/"
+baseURL: "https://musicantfamilybrain.info/"
 languageCode: en-us
-title: My New Hugo Site
+title: Musicant Family Brain
 theme: PaperMod
 
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
