@@ -16,3 +16,10 @@ params:
   author: Me
   ShowReadingTime: true
   ShowPostNavLinks: true
+
+menu:
+    main:
+        - identifier: tags
+          name: Drummers 
+          url: tags//drummers/
+          weight: 20
